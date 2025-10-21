@@ -1,0 +1,5 @@
+Python: 3.11.5
+jupiter: 8.15.0
+pandas version: 2.2.3
+requests version: 2.31.0
+beautifulsoup4 version: 4.12.2
